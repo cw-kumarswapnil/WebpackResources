@@ -1,4 +1,4 @@
-# WebpackResources
+# Webpack : The art of bundling assets
 
 ## Concepts | Guides
 * [The Manifest](https://webpack.js.org/concepts/manifest/)
