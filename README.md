@@ -1,6 +1,5 @@
-# Webpack : The art of bundling assets
-
-## Concepts | Guides
+# Webpack
+# Concepts | Guides
 * [The Manifest](https://webpack.js.org/concepts/manifest/)
 * [Plugins](https://webpack.js.org/concepts/#plugins)
 * [Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
