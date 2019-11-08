@@ -4,6 +4,8 @@
 * [Plugins](https://webpack.js.org/concepts/#plugins)
 * [Tree Shaking](https://webpack.js.org/guides/tree-shaking/)
 * [Webpack migration guide](https://webpack.js.org/migrate/4/)
+* [babel-preset-env browserslist-integration](https://babeljs.io/docs/en/babel-preset-env#browserslist-integration)
+* [Browserslist best practices](https://github.com/browserslist/browserslist#best-practices)
 
 ## Loaders
 * [babel-loader](https://webpack.js.org/loaders/babel-loader/)
